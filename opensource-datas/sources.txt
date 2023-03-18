@@ -1,1 +1,2 @@
 EQ20.csv = Turkey 20 Years Earthquakes CSV from Kaggle. Thx for data SERHAT KRGL @ Kaggle.
+Military_Data.csv = All Military Data from @ data.world.
