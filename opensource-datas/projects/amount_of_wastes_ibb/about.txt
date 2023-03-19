@@ -1,0 +1,1 @@
+from ibb_ilcelere_gore_atik_miktari.csv
