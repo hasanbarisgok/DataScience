@@ -1,0 +1,165 @@
+HISTORY,HOSPITALS,CITIES,QUOATA,MIN,MAX,REGIONS
+1.12.2020,Adana Dr.Ekrem Tok Ruh Sağ.ve Has. Hastanesi,Adana,8,"81,17","86,3",Akdeniz Bölgesi
+1.12.2020,Adana Seyhan Devlet Hast.,Adana,38,"81,66","91,93",Akdeniz Bölgesi
+1.12.2020,Ankara 29 Mayıs Devlet Hast.,Ankara,2,88,"92,38",İç Anadolu Bölgesi
+1.12.2020,Ankara Atatürk Göğüs Hastal.ve Göğüs Cer. EAH.,Ankara,97,"75,77","84,18",İç Anadolu Bölgesi
+1.12.2020,Ankara Beytepe Murat Erdi Eker Devlet Hast.,Ankara,2,"88,16","89,63",İç Anadolu Bölgesi
+1.12.2020,Ankara Dr. Sami Ulus Kadın Doğum Çocuk Sağ.ve Hastal. EAH.,Ankara,114,"75,07","79,79",İç Anadolu Bölgesi
+1.12.2020,Ankara Etlik Zübeyde Hanım Kadın Hastal. EAH.,Ankara,63,"76,24","85,61",İç Anadolu Bölgesi
+1.12.2020,Ankara Gazi Mustafa Kemal Devlet Hast.,Ankara,3,"88,43","90,38",İç Anadolu Bölgesi
+1.12.2020,Ankara Gaziler Fizik Tedavi ve Rehabilitasyon EAH.,Ankara,2,"85,07","85,77",İç Anadolu Bölgesi
+1.12.2020,Ankara Mesleki ve Çevresel Hastalıklar Hastanesi,Ankara,41,"76,88","83,32",İç Anadolu Bölgesi
+1.12.2020,Ankara Yıldırım Beyazıt Üni. Yenimahalle EAH.,Ankara,11,"83,67","90,27",İç Anadolu Bölgesi
+1.12.2020,Etimesgut Şehit Sait Ertürk Devlet Hast.,Ankara,12,"83,65","89,6",İç Anadolu Bölgesi
+1.12.2020,Gölbaşı Şehit Ahmet Özsoy Devlet Hast.,Ankara,24,"79,4","82,72",İç Anadolu Bölgesi
+1.12.2020,Pursaklar Devlet Hast.,Ankara,2,"88,13","88,81",İç Anadolu Bölgesi
+1.12.2020,Antalya İbradı TSM.,Antalya,1,"84,42","84,42",Akdeniz Bölgesi
+1.12.2020,Gazipaşa Devlet Hast.,Antalya,2,"82,47","86,63",Akdeniz Bölgesi
+1.12.2020,Gündoğmuş İlçe Devlet Hast.,Antalya,1,"79,63","79,63",Akdeniz Bölgesi
+1.12.2020,Kaş Devlet Hast.,Antalya,4,"80,98","86,2",Akdeniz Bölgesi
+1.12.2020,Kemer Devlet Hast.,Antalya,2,"89,45","90,1",Akdeniz Bölgesi
+1.12.2020,Kumluca Devlet Hast.,Antalya,3,"81,46","84,76",Akdeniz Bölgesi
+1.12.2020,Manavgat Devlet Hast.,Antalya,16,"82,26","92,27",Akdeniz Bölgesi
+1.12.2020,Aydın Kadın Doğum ve Çocuk Hastal. Hast.,Aydın,2,"84,46","84,64",Ege Bölgesi
+1.12.2020,Bandırma Devlet Hast.,Balıkesir,2,"86,28","92,42",Marmara Bölgesi
+1.12.2020,Edremit Devlet Hast.,Balıkesir,2,"86,32","89,2",Marmara Bölgesi
+1.12.2020,Amasra İlçe Devlet Hast.,Bartın,2,"83,98","84,15",Karadeniz Bölgesi
+1.12.2020,Bartın Kurucaşile TSM.,Bartın,1,"79,37","79,37",Karadeniz Bölgesi
+1.12.2020,Batman Bölge Devlet Hast.,Batman,49,"82,47","95,1",Güneydoğu Anadolu Bölgesi
+1.12.2020,Batman Kadın Doğum ve Çocuk Hastal. Hast.,Batman,16,"82,13","85,18",Güneydoğu Anadolu Bölgesi
+1.12.2020,Bilecik Devlet Hast.,Bilecik,7,"79,24","81,41",Marmara Bölgesi
+1.12.2020,Bilecik Osmaneli TSM.,Bilecik,1,"80,15","80,15",Marmara Bölgesi
+1.12.2020,Bingöl Genç İlçe Sağlık Müd.,Bingöl,1,"81,63","81,63",Doğu Anadolu Bölgesi
+1.12.2020,Bingöl Kadın Doğum ve Çocuk Hastal. Hast.,Bingöl,1,"83,31","83,31",Doğu Anadolu Bölgesi
+1.12.2020,Bingöl Karlıova İlçe Sağlık Müd.,Bingöl,1,"80,28","80,28",Doğu Anadolu Bölgesi
+1.12.2020,Bingöl Solhan İlçe Sağlık Müd.,Bingöl,1,"85,33","85,33",Doğu Anadolu Bölgesi
+1.12.2020,Adilcevaz Onkoloji Hastanesi,Bitlis,4,"79,78","80,58",Doğu Anadolu Bölgesi
+1.12.2020,Abant İzzet Baysal Üni. Bolu İzzet Baysal EAH.,Bolu,10,"79,72","84,37",Karadeniz Bölgesi
+1.12.2020,Burdur Yeşilova TSM.,Burdur,1,"84,79","84,79",Akdeniz Bölgesi
+1.12.2020,Gölhisar Devlet Hast.,Burdur,2,"81,43","82,2",Akdeniz Bölgesi
+1.12.2020,Bursa Dr. Ayten Bozkaya Spastik Çocuklar Hastanesi ve Reh. Merk.,Bursa,4,"83,9","88,54",Marmara Bölgesi
+1.12.2020,Gürsu Cüneyt Yıldız Devlet Hast.,Bursa,4,"81,13","85,1",Marmara Bölgesi
+1.12.2020,Orhangazi Devlet Hast.,Bursa,8,"79,11","80,47",Marmara Bölgesi
+1.12.2020,Yenişehir Devlet Hast.,Bursa,8,"78,24","81,1",Marmara Bölgesi
+1.12.2020,İznik Devlet Hast.,Bursa,4,"79,68","80,26",Marmara Bölgesi
+1.12.2020,Düzce Çilimli TSM.,Düzce,1,"82,36","82,36",Karadeniz Bölgesi
+1.12.2020,Elazığ Sivrice TSM.,Elazığ,1,"83,79","83,79",Doğu Anadolu Bölgesi
+1.12.2020,Erzincan Mengücek Gazi EAH.,Erzincan,15,"78,14","83,46",Doğu Anadolu Bölgesi
+1.12.2020,Erzurum Hınıs TSM.,Erzurum,1,"78,69","78,69",Doğu Anadolu Bölgesi
+1.12.2020,Narman İlçe Devlet Hast.,Erzurum,1,"74,21","74,21",Doğu Anadolu Bölgesi
+1.12.2020,Oltu Devlet Hast.,Erzurum,2,"78,62","78,82",Doğu Anadolu Bölgesi
+1.12.2020,Olur İlçe Devlet Hast.,Erzurum,1,"74,47","74,47",Doğu Anadolu Bölgesi
+1.12.2020,Pazaryolu Hasan Basri Demirbağ İlçe Devlet Hast.,Erzurum,1,"75,33","75,33",Doğu Anadolu Bölgesi
+1.12.2020,Uzundere Şehit İhsan Erdoğan İlçe Devlet Hast.,Erzurum,1,"75,78","75,78",Doğu Anadolu Bölgesi
+1.12.2020,Şenkaya İlçe Devlet Hast.,Erzurum,1,"74,41","74,41",Doğu Anadolu Bölgesi
+1.12.2020,Gaziantep Cengiz Gökçek Kadın Doğum ve Çocuk Hastal. Hast.,Gaziantep,12,"81,29","85,19",Güneydoğu Anadolu Bölgesi
+1.12.2020,Giresun Dr. Ali Menekşe Göğüs Hastal. Hastanesi,Giresun,3,"80,87","82,12",Karadeniz Bölgesi
+1.12.2020,Giresun Üni.kadın Doğum ve Çocuk Hastal. EAH.,Giresun,5,"78,72","84,64",Karadeniz Bölgesi
+1.12.2020,Giresun Üni.prof. Dr. A. İlhan Özdemir EAH.,Giresun,41,"76,98","82,61",Karadeniz Bölgesi
+1.12.2020,Gümüşhane Kelkit İlçe Sağlık Müd.,Gümüşhane,1,"80,62","80,62",Karadeniz Bölgesi
+1.12.2020,Gümüşhane Merkez TSM.,Gümüşhane,1,"85,01","85,01",Karadeniz Bölgesi
+1.12.2020,Hatay Devlet Hast.,Hatay,32,"80,78","89,2",Akdeniz Bölgesi
+1.12.2020,Eğirdir Kemik Eklem Hastal.Tedavi ve Reh. Hastanesi,Isparta,2,"83,42","83,58",Akdeniz Bölgesi
+1.12.2020,Isparta Aksu TSM.,Isparta,2,"80,96","81,37",Akdeniz Bölgesi
+1.12.2020,Isparta Yenişarbademli TSM.,Isparta,1,"80,88","80,88",Akdeniz Bölgesi
+1.12.2020,Isparta Şehir Hast.,Isparta,4,"87,06","87,48",Akdeniz Bölgesi
+1.12.2020,Andırın Devlet Hast.,Kahramanmaraş,11,"79,74","83,69",Akdeniz Bölgesi
+1.12.2020,Göksun Devlet Hast.,Kahramanmaraş,2,"80,62","81,89",Akdeniz Bölgesi
+1.12.2020,Sarıveliler İlçe Devlet Hast.,Karaman,1,"77,78","77,78",İç Anadolu Bölgesi
+1.12.2020,Abana İlçe Devlet Hast.,Kastamonu,1,"77,73","77,73",Karadeniz Bölgesi
+1.12.2020,Kastamonu Azdavay TSM.,Kastamonu,1,"80,33","80,33",Karadeniz Bölgesi
+1.12.2020,Kastamonu Bozkurt TSM.,Kastamonu,1,"80,57","80,57",Karadeniz Bölgesi
+1.12.2020,Kastamonu Cide TSM.,Kastamonu,1,"78,71","78,71",Karadeniz Bölgesi
+1.12.2020,Kastamonu Daday TSM.,Kastamonu,1,"81,99","81,99",Karadeniz Bölgesi
+1.12.2020,Kastamonu İnebolu TSM.,Kastamonu,2,"78,74","81,09",Karadeniz Bölgesi
+1.12.2020,Çatalzeytin İlçe Devlet Hast.,Kastamonu,1,"78,25","78,25",Karadeniz Bölgesi
+1.12.2020,İhsangazi İlçe Devlet Hast.,Kastamonu,1,"81,4","81,4",Karadeniz Bölgesi
+1.12.2020,Kilis Elbeyli TSM.,Kilis,4,"77,59","80,2",Güneydoğu Anadolu Bölgesi
+1.12.2020,Kilis Merkez TSM.,Kilis,10,"79,58","81,57",Güneydoğu Anadolu Bölgesi
+1.12.2020,Kilis Polateli TSM.,Kilis,2,"79,15","82,89",Güneydoğu Anadolu Bölgesi
+1.12.2020,Kilis İl Sağlık Müd.,Kilis,4,"83,08","91,21",Güneydoğu Anadolu Bölgesi
+1.12.2020,Musabeyli İlçe Devlet Hast.,Kilis,6,"77,45","79,07",Güneydoğu Anadolu Bölgesi
+1.12.2020,Konya Meram Devlet Hast.,Konya,23,"79,75","84,42",İç Anadolu Bölgesi
+1.12.2020,Gediz Devlet Hast.,Kütahya,2,"80,7","82,92",Ege Bölgesi
+1.12.2020,Pınarhisar Devlet Hast.,Kırklareli,8,"76,17","77,15",Marmara Bölgesi
+1.12.2020,Vize Devlet Hast.,Kırklareli,8,"75,68","78,43",Marmara Bölgesi
+1.12.2020,Delice İlçe Devlet Hast.,Kırıkkale,1,"78,72","78,72",İç Anadolu Bölgesi
+1.12.2020,Kırıkkale Balışeyh TSM.,Kırıkkale,2,"81,14","85,71",İç Anadolu Bölgesi
+1.12.2020,Kırıkkale Yüksek İhtisas Hastanesi,Kırıkkale,4,"81,71","82,76",İç Anadolu Bölgesi
+1.12.2020,Sulakyurt İlçe Devlet Hast.,Kırıkkale,2,"75,18","77,81",İç Anadolu Bölgesi
+1.12.2020,Kırşehir Akçakent Şehit Ahmet Kılıç TSM.,Kırşehir,1,"79,48","79,48",İç Anadolu Bölgesi
+1.12.2020,Kırşehir Boztepe TSM.,Kırşehir,1,"85,17","85,17",İç Anadolu Bölgesi
+1.12.2020,Akçadağ Şehit Gökhan Aslan Devlet Hast.,Malatya,3,"88,92","92,24",Doğu Anadolu Bölgesi
+1.12.2020,Hekimhan Devlet Hast.,Malatya,5,"81,06","82,12",Doğu Anadolu Bölgesi
+1.12.2020,Malatya Akçadağ TSM.,Malatya,1,"87,67","87,67",Doğu Anadolu Bölgesi
+1.12.2020,Malatya Arguvan TSM.,Malatya,2,"80,58","82,3",Doğu Anadolu Bölgesi
+1.12.2020,Malatya Doğanyol TSM.,Malatya,2,"79,17","83,26",Doğu Anadolu Bölgesi
+1.12.2020,Malatya Kuluncak TSM.,Malatya,2,"78,57",79,Doğu Anadolu Bölgesi
+1.12.2020,Manisa Merkezefendi Devlet Hast.,Manisa,8,"82,5","87,95",Ege Bölgesi
+1.12.2020,Sarıgöl Devlet Hast.,Manisa,1,"80,61","80,61",Ege Bölgesi
+1.12.2020,Mardin Devlet Hast.,Mardin,2,"88,41","93,35",Güneydoğu Anadolu Bölgesi
+1.12.2020,Bodrum Devlet Hast.,Muğla,17,"79,49","85,13",Ege Bölgesi
+1.12.2020,Kavaklıdere İlçe Devlet Hast.,Muğla,1,"79,47","79,47",Ege Bölgesi
+1.12.2020,Menteşe Devlet Hast.,Muğla,11,"81,69","87,23",Ege Bölgesi
+1.12.2020,Muğla Datça TSM.,Muğla,1,"87,26","87,26",Ege Bölgesi
+1.12.2020,Kozaklı Fizik Tedavi ve Reh. Hastanesi,Nevşehir,9,"78,7","83,78",İç Anadolu Bölgesi
+1.12.2020,Ürgüp Devlet Hast.,Nevşehir,6,"79,24","88,41",İç Anadolu Bölgesi
+1.12.2020,Niğde Altunhisar İlçe Devlet Hast.i Hasandağı Sağlık Evi,Niğde,1,"76,4","76,4",İç Anadolu Bölgesi
+1.12.2020,Niğde Merkez TSM. İçmeli Sağlık Evi,Niğde,1,79,79,İç Anadolu Bölgesi
+1.12.2020,Niğde Çiftlik TSM. Kula Sağlık Evi,Niğde,1,"83,38","83,38",İç Anadolu Bölgesi
+1.12.2020,Niğde Çiftlik TSM. Mahmutlu Sağlık Evi,Niğde,1,"78,61","78,61",İç Anadolu Bölgesi
+1.12.2020,Ordu Akkuş TSM.,Ordu,2,"77,11","77,65",Karadeniz Bölgesi
+1.12.2020,Ordu Gürgentepe TSM.,Ordu,1,"83,64","83,64",Karadeniz Bölgesi
+1.12.2020,Ordu Kumru TSM.,Ordu,1,"84,43","84,43",Karadeniz Bölgesi
+1.12.2020,Ordu Çaybaşı TSM.,Ordu,1,"80,14","80,14",Karadeniz Bölgesi
+1.12.2020,Geyve Devlet Hast.,Sakarya,1,"78,67","78,67",Marmara Bölgesi
+1.12.2020,Toyotasa Acil Yardım Hastanesi,Sakarya,19,"77,76","85,87",Marmara Bölgesi
+1.12.2020,Alaçam Devlet Hast.,Samsun,2,"79,74","80,73",Karadeniz Bölgesi
+1.12.2020,Asarcık İlçe Devlet Hast.,Samsun,3,"81,33","82,56",Karadeniz Bölgesi
+1.12.2020,Ayvacık Devlet Hast.,Samsun,3,"78,62","80,64",Karadeniz Bölgesi
+1.12.2020,Samsun EAH.,Samsun,15,"83,15","91,98",Karadeniz Bölgesi
+1.12.2020,Siirt Baykan TSM.,Siirt,1,"81,39","81,39",Güneydoğu Anadolu Bölgesi
+1.12.2020,Akıncılar İlçe Devlet Hast.,Sivas,1,"75,85","75,85",İç Anadolu Bölgesi
+1.12.2020,Gölova İlçe Devlet Hast.,Sivas,2,"75,21","75,24",İç Anadolu Bölgesi
+1.12.2020,Sivas Numune Hastanesi,Sivas,32,"77,14","88,2",İç Anadolu Bölgesi
+1.12.2020,İmranlı İlçe Devlet Hast.,Sivas,2,"76,51","76,64",İç Anadolu Bölgesi
+1.12.2020,Saray Devlet Hast.,Tekirdağ,1,"77,87","77,87",Marmara Bölgesi
+1.12.2020,Tekirdağ Devlet Hast.,Tekirdağ,11,"80,26","93,11",Marmara Bölgesi
+1.12.2020,Tekirdağ Ergene İlçe Sağlık Müd.,Tekirdağ,2,"83,55","84,25",Marmara Bölgesi
+1.12.2020,Tekirdağ Çorlu İlçe Sağlık Müd.,Tekirdağ,1,"85,03","85,03",Marmara Bölgesi
+1.12.2020,Niksar Devlet Hast.,Tokat,3,"81,59","86,61",Karadeniz Bölgesi
+1.12.2020,Maçka Ömer Burhanoğlu Fizik Tedavi ve Reh. Hastanesi,Trabzon,2,"80,97","81,74",Karadeniz Bölgesi
+1.12.2020,Trabzon Ahi Evren Göğüs Kalp ve Damar Cer.EAH..,Trabzon,6,"79,94","91,16",Karadeniz Bölgesi
+1.12.2020,Trabzon Ataköy Ruh ve Sinir Hastal. Hastanesi,Trabzon,2,"76,56","76,98",Karadeniz Bölgesi
+1.12.2020,Hozat İlçe Devlet Hast.,Tunceli,1,"78,61","78,61",Doğu Anadolu Bölgesi
+1.12.2020,Mazgirt İlçe Devlet Hast.,Tunceli,1,"78,06","78,06",Doğu Anadolu Bölgesi
+1.12.2020,Tunceli Pülümür TSM.,Tunceli,1,"78,25","78,25",Doğu Anadolu Bölgesi
+1.12.2020,Çemişgezek İlçe Devlet Hast.,Tunceli,2,"78,87","79,05",Doğu Anadolu Bölgesi
+1.12.2020,Karahallı Hacı Rafet Zora İlçe Devlet Hast.,Uşak,2,"76,84","76,89",Ege Bölgesi
+1.12.2020,Altınova İlçe Devlet Hast.,Yalova,4,"78,25","79,53",Marmara Bölgesi
+1.12.2020,Armutlu İlçe Devlet Hast.,Yalova,4,"78,91","81,71",Marmara Bölgesi
+1.12.2020,Yalova Altınova TSM.,Yalova,4,"81,01","82,03",Marmara Bölgesi
+1.12.2020,Yalova Merkez TSM.,Yalova,2,"83,65","84,62",Marmara Bölgesi
+1.12.2020,Yalova Termal TSM.,Yalova,1,"83,22","83,22",Marmara Bölgesi
+1.12.2020,Yalova Çiftlikköy İlçe Sağlık Müd.,Yalova,2,"81,41","81,51",Marmara Bölgesi
+1.12.2020,Yalova Çınarcık İlçe Sağlık Müd.,Yalova,2,"82,43","83,27",Marmara Bölgesi
+1.12.2020,Çınarcık Devlet Hast.,Yalova,8,"78,43","79,42",Marmara Bölgesi
+1.12.2020,Ayvacık Devlet Hast.,Çanakkale,1,"81,73","81,73",Marmara Bölgesi
+1.12.2020,Yenice Devlet Hast.,Çanakkale,2,"79,95","81,28",Marmara Bölgesi
+1.12.2020,Çanakkale Gökçeada TSM.,Çanakkale,1,81,81,Marmara Bölgesi
+1.12.2020,Çanakkale Çan İlçe Sağlık Müd.,Çanakkale,2,"85,01","87,88",Marmara Bölgesi
+1.12.2020,Kurşunlu İlçe Devlet Hast.,Çankırı,2,"76,17","76,32",İç Anadolu Bölgesi
+1.12.2020,Başakşehir Çam ve Sakura Şehir Hast.,İstanbul,38,"75,67","86,94",Marmara Bölgesi
+1.12.2020,Erenköy Ruh ve Sinir Hastal. EAH.,İstanbul,6,"78,81","83,04",Marmara Bölgesi
+1.12.2020,Esenler Kadın Doğum ve Çocuk Hastal. Hast.,İstanbul,3,"79,37","84,02",Marmara Bölgesi
+1.12.2020,Pendik EAH.,İstanbul,9,"76,55","79,54",Marmara Bölgesi
+1.12.2020,istanbul Baltalimanı Metin Sabancı Kemik Hastal. EAH.,İstanbul,4,"80,44","82,42",Marmara Bölgesi
+1.12.2020,istanbul Kanuni Sultan Süleyman EAH.,İstanbul,62,"75,73","90,34",Marmara Bölgesi
+1.12.2020,istanbul Prof. Dr. Cemil Taşcıoğlu Şehir Hast.,İstanbul,16,"77,16","84,69",Marmara Bölgesi
+1.12.2020,istanbul Sultan 2. Abdülhamid Han EAH.,İstanbul,32,"75,78","85,98",Marmara Bölgesi
+1.12.2020,istanbul Süreyyapaşa Göğüs Hastal.ve Göğüs Cer. EAH.,İstanbul,22,"75,56","77,21",Marmara Bölgesi
+1.12.2020,istanbul Yedikule Göğüs Hastal.ve Göğüs Cer. EAH.,İstanbul,22,"75,63","79,4",Marmara Bölgesi
+1.12.2020,kartal Dr. Lütfi Kırdar Şehir Hast.,İstanbul,48,"76,83","89,5",Marmara Bölgesi
+1.12.2020,İstanbul Dr. Siyami Ersek Göğüs Kalp ve Damar Cer.EAH.,İstanbul,17,"77,96","85,64",Marmara Bölgesi
+1.12.2020,izmir Dr. Behçet Uz Çocuk Hastal. ve Cer.EAH.,İzmir,20,"82,6","89,17",Ege Bölgesi
+1.12.2020,İzmir Dr. Suat Seren Göğüs Hastal.ve Cer.EAH.,İzmir,27,"81,35","88,65",Ege Bölgesi
