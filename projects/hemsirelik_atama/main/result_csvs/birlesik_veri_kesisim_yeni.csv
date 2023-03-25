@@ -1,0 +1,453 @@
+HOSPITALS,CITIES,QUOATA,MIN,MAX,REGIONS
+Adana Yüreğir Devlet Hast.,Adana,25,"78,63","81,36",Akdeniz Bölgesi
+Adana Şehir Hast.,Adana,153,"78,73","86,24",Akdeniz Bölgesi
+İmamoğlu Devlet Hast.,Adana,4,"80,38","80,38",Akdeniz Bölgesi
+Tufanbeyli Devlet Hast.,Adana,11,"74,55","76,91",Akdeniz Bölgesi
+Kahta Devlet Hast.,Adıyaman,8,"82,15","83,57",Güneydoğu Anadolu Bölgesi
+Kahta Göçeri İlçe Devlet Hast.,Adıyaman,5,"79,84","81,73",Güneydoğu Anadolu Bölgesi
+Sincik İlçe Devlet Hast.,Adıyaman,5,"81,54","84,95",Güneydoğu Anadolu Bölgesi
+Gerger İlçe Devlet Hast.,Adıyaman,5,"78,47","78,53",Güneydoğu Anadolu Bölgesi
+Afyonkarahisar Devlet Hast.,Afyonkarahisar,29,"77,41","80,76",Ege Bölgesi
+Dinar Devlet Hast.,Afyonkarahisar,6,"75,8","78,79",Ege Bölgesi
+Emirdağ Devlet Hast.,Afyonkarahisar,7,"74,57","75,64",Ege Bölgesi
+Bolvadin Dr.Halil İbrahim Özsoy Devlet Hast.,Afyonkarahisar,4,"76,13","77,67",Ege Bölgesi
+Şuhut Devlet Hast.,Afyonkarahisar,7,"75,04","77,32",Ege Bölgesi
+Sandıklı Devlet Hast.,Afyonkarahisar,6,"76,56","77,16",Ege Bölgesi
+Sinanpaşa Devlet Hast.,Afyonkarahisar,3,"75,42","75,77",Ege Bölgesi
+Aksaray Ortaköy İlçe Sağlık Müd.,Aksaray,3,"76,62","76,62",İç Anadolu Bölgesi
+Güzelyurt İlçe Devlet Hast.,Aksaray,3,"74,26","74,31",İç Anadolu Bölgesi
+Aksaray EAH.,Aksaray,163,"75,08","86,28",İç Anadolu Bölgesi
+Sarıyahşi İlçe Devlet Hast.,Aksaray,2,"74,84","74,84",İç Anadolu Bölgesi
+Aksaray Sultanhanı TSM.,Aksaray,5,"75,35","76,78",İç Anadolu Bölgesi
+Aksaray Eskil TSM.,Aksaray,3,"76,49","76,49",İç Anadolu Bölgesi
+Aksaray Gülağaç TSM.,Aksaray,2,"75,37","75,37",İç Anadolu Bölgesi
+Ağaçören İlçe Devlet Hast.,Aksaray,2,"74,55","74,55",İç Anadolu Bölgesi
+Suluova Devlet Hast.,Amasya,6,"74,99","75,36",Karadeniz Bölgesi
+Merzifon Kara Mustafa Paşa Devlet Hast.,Amasya,9,"76,01","79,49",Karadeniz Bölgesi
+Amasya Sabuncuoğlu Şerefeddin EAH.,Amasya,23,"75,71","84,51",Karadeniz Bölgesi
+Kahramankazan Hamdi Eriş Devlet Hast.,Ankara,18,"74,8","83,33",İç Anadolu Bölgesi
+Ayaş Şehit Mehmet Çifci Devlet Hast.,Ankara,4,"74,93","74,93",İç Anadolu Bölgesi
+Ankara Dr. Abdurrahman Yurtaslan Onkoloji EAH.,Ankara,312,"73,57","82,03",İç Anadolu Bölgesi
+Sincan Dr. Nafiz Körez Devlet Hast.,Ankara,12,"81,23","85,27",İç Anadolu Bölgesi
+Haymana Devlet Hast.,Ankara,3,"73,06","75,39",İç Anadolu Bölgesi
+Çubuk Halil Şıvgın Devlet Hast.,Ankara,4,"82,61","82,61",İç Anadolu Bölgesi
+Ankara Şehir Hast.,Ankara,534,"75,44","87,57",İç Anadolu Bölgesi
+Kızılcahamam Devlet Hast.,Ankara,4,"73,57","73,73",İç Anadolu Bölgesi
+Ankara Keçiören EAH.,Ankara,18,"86,13","89,91",İç Anadolu Bölgesi
+Ankara Dışkapı Yıldırım Beyazıt EAH.,Ankara,487,"73,89","83,42",İç Anadolu Bölgesi
+Ankara EAH.,Ankara,91,"79,49","81,04",İç Anadolu Bölgesi
+Nallıhan Devlet Hast.,Ankara,2,"72,4","72,4",İç Anadolu Bölgesi
+Elmadağ Dr. Hulusi Alataş Devlet Hast.,Ankara,5,"79,62","80,86",İç Anadolu Bölgesi
+Polatlı Duatepe Devlet Hast.,Ankara,10,"75,86","77,35",İç Anadolu Bölgesi
+Şereflikoçhisar Devlet Hast.,Ankara,5,"74,96","77,74",İç Anadolu Bölgesi
+Beypazarı Devlet Hast.,Ankara,3,"77,64","77,64",İç Anadolu Bölgesi
+Ankara Evren TSM.,Ankara,2,"78,71","78,71",İç Anadolu Bölgesi
+Ankara Gülhane EAH.,Ankara,63,"81,49","92,11",İç Anadolu Bölgesi
+Elmalı Devlet Hast.,Antalya,4,"79,4","80,3",Akdeniz Bölgesi
+Akseki İlçe Devlet Hast.,Antalya,3,"78,78","78,78",Akdeniz Bölgesi
+Demre Devlet Hast.,Antalya,5,"80,77","80,77",Akdeniz Bölgesi
+Korkuteli Devlet Hast.,Antalya,5,"80,9","80,9",Akdeniz Bölgesi
+Alanya EAH.,Antalya,35,"78,96","83,8",Akdeniz Bölgesi
+Serik Devlet Hast.,Antalya,6,"80,96","81,26",Akdeniz Bölgesi
+Finike Devlet Hast.,Antalya,8,"81,27","88,18",Akdeniz Bölgesi
+Ardahan Devlet Hast.,Ardahan,17,"73,07","73,87",Doğu Anadolu Bölgesi
+Ardahan Çıldır TSM.,Ardahan,2,"72,43","72,43",Doğu Anadolu Bölgesi
+Posof İlçe Devlet Hast.,Ardahan,2,"71,98","71,98",Doğu Anadolu Bölgesi
+Göle Devlet Hast.,Ardahan,4,"72,5","72,8",Doğu Anadolu Bölgesi
+Borçka Devlet Hast.,Artvin,2,72,72,Karadeniz Bölgesi
+Yusufeli Devlet Hast.,Artvin,3,"72,99","73,54",Karadeniz Bölgesi
+Artvin Devlet Hast.,Artvin,8,"73,17","73,2",Karadeniz Bölgesi
+Şavşat Devlet Hast.,Artvin,3,"73,42","76,76",Karadeniz Bölgesi
+Hopa Devlet Hast.,Artvin,4,"73,16","74,51",Karadeniz Bölgesi
+Aydın Atatürk Devlet Hast.,Aydın,5,"82,63","85,73",Ege Bölgesi
+Didim Devlet Hast.,Aydın,4,"80,62","81,71",Ege Bölgesi
+Aydın Devlet Hast.,Aydın,8,"81,46","82,4",Ege Bölgesi
+Nazilli Devlet Hast.,Aydın,14,"78,71","88,07",Ege Bölgesi
+Kuşadası Devlet Hast.,Aydın,3,"80,97","83,04",Ege Bölgesi
+Söke Fehime Faik Kocagöz Devlet Hast.,Aydın,4,"79,68","80,76",Ege Bölgesi
+Tutak İlçe Devlet Hast.,Ağrı,6,"72,36","72,67",Doğu Anadolu Bölgesi
+Patnos Devlet Hast.,Ağrı,19,"73,69","80,51",Doğu Anadolu Bölgesi
+Ağrı EAH.,Ağrı,58,"74,68","84,02",Doğu Anadolu Bölgesi
+Ayvalık Devlet Hast.,Balıkesir,4,"79,5","84,8",Marmara Bölgesi
+Dursunbey Devlet Hast.,Balıkesir,3,"75,58","76,14",Marmara Bölgesi
+Susurluk Devlet Hast.,Balıkesir,4,"77,9","79,72",Marmara Bölgesi
+Manyas Devlet Hast.,Balıkesir,3,"77,14","81,32",Marmara Bölgesi
+İvrindi Devlet Hast.,Balıkesir,2,"84,08","84,08",Marmara Bölgesi
+Bigadiç Devlet Hast.,Balıkesir,3,"79,99","80,85",Marmara Bölgesi
+Balıkesir Atatürk Şehir Hast.,Balıkesir,21,"81,88","85,46",Marmara Bölgesi
+Ulus Şehit Piyade Er Hasan Hüseyin Oğuz İlçe Devlet Hast.,Bartın,3,"74,96","74,96",Karadeniz Bölgesi
+Bartın Devlet Hast.,Bartın,14,"75,47","82,73",Karadeniz Bölgesi
+Kozluk Devlet Hast.,Batman,12,"80,02","81,24",Güneydoğu Anadolu Bölgesi
+Gercüş Devlet Hast.,Batman,6,"80,28","80,79",Güneydoğu Anadolu Bölgesi
+Hasankeyf İlçe Devlet Hast.,Batman,3,"81,04","81,13",Güneydoğu Anadolu Bölgesi
+Batman Merkez TSM.,Batman,8,"81,05","83,03",Güneydoğu Anadolu Bölgesi
+Batman Kozluk İlçe Sağlık Müd.,Batman,3,"79,27","79,27",Güneydoğu Anadolu Bölgesi
+Sason Devlet Hast.,Batman,10,"78,5","80,22",Güneydoğu Anadolu Bölgesi
+Bayburt Devlet Hast.,Bayburt,17,"73,32","74,39",Karadeniz Bölgesi
+Gölpazarı İlçe Devlet Hast.,Bilecik,3,"73,73","73,73",Marmara Bölgesi
+Pazaryeri İlçe Devlet Hast.,Bilecik,4,"74,47","74,87",Marmara Bölgesi
+İnhisar İlçe Devlet Hast.,Bilecik,3,"74,08","74,08",Marmara Bölgesi
+Yenipazar İlçe Devlet Hast.,Bilecik,3,74,74,Marmara Bölgesi
+Bozüyük Devlet Hast.,Bilecik,28,"75,19","80,02",Marmara Bölgesi
+Söğüt Devlet Hast.,Bilecik,4,"74,88","75,3",Marmara Bölgesi
+Osmaneli Mustafa Selahattin Çetintaş Devlet Hast.,Bilecik,9,"74,17","74,96",Marmara Bölgesi
+Genç Devlet Hast.,Bingöl,3,"76,3","76,47",Doğu Anadolu Bölgesi
+Solhan Devlet Hast.,Bingöl,5,"74,99","76,02",Doğu Anadolu Bölgesi
+Bingöl Devlet Hast.,Bingöl,19,"77,18","89,04",Doğu Anadolu Bölgesi
+Kiğı İlçe Devlet Hast.,Bingöl,3,"73,3","73,3",Doğu Anadolu Bölgesi
+Adaklı İlçe Devlet Hast.,Bingöl,3,"72,96","73,16",Doğu Anadolu Bölgesi
+Karlıova Devlet Hast.,Bingöl,7,"73,97","75,11",Doğu Anadolu Bölgesi
+Güroymak Devlet Hast.,Bitlis,13,"74,63","78,32",Doğu Anadolu Bölgesi
+Tatvan Devlet Hast.,Bitlis,78,"76,55","82,65",Doğu Anadolu Bölgesi
+Ahlat Devlet Hast.,Bitlis,20,"76,22","80,73",Doğu Anadolu Bölgesi
+Bitlis Devlet Hast.,Bitlis,28,"76,16","81,66",Doğu Anadolu Bölgesi
+Hizan Devlet Hast.,Bitlis,11,"74,07","75,91",Doğu Anadolu Bölgesi
+Bolu İzzet Baysal Devlet Hast.,Bolu,16,"76,25","82,02",Karadeniz Bölgesi
+Burdur Devlet Hast.,Burdur,13,"78,37","87,45",Akdeniz Bölgesi
+Bucak Devlet Hast.,Burdur,11,"78,22","80,03",Akdeniz Bölgesi
+Çekirge Devlet Hast.,Bursa,20,"77,63","83,37",Marmara Bölgesi
+Bursa Şehir Hast.,Bursa,91,"78,06","90,22",Marmara Bölgesi
+Bursa Yüksek İhtisas EAH.,Bursa,29,"77,42","84,31",Marmara Bölgesi
+Kestel Devlet Hast.,Bursa,14,"79,69","80,59",Marmara Bölgesi
+İnegöl Devlet Hast.,Bursa,18,"78,38","82,67",Marmara Bölgesi
+Karacabey Devlet Hast.,Bursa,14,"78,79","80,41",Marmara Bölgesi
+Mustafakemalpaşa Devlet Hast.,Bursa,14,"81,13","84,29",Marmara Bölgesi
+Gemlik Devlet Hast.,Bursa,22,"78,14","79,13",Marmara Bölgesi
+Denizli Devlet Hast.,Denizli,21,"79,53","81,68",Ege Bölgesi
+Denizli Servergazi Devlet Hast.,Denizli,9,"80,94","83,09",Ege Bölgesi
+Diyarbakır Selahaddin Eyyubi Devlet Hast.,Diyarbakır,10,"84,18","88,37",Güneydoğu Anadolu Bölgesi
+Hazro İlçe Devlet Hast.,Diyarbakır,3,"80,82","80,82",Güneydoğu Anadolu Bölgesi
+Diyarbakır Çermik İlçe Sağlık Müd.,Diyarbakır,4,"78,92","79,05",Güneydoğu Anadolu Bölgesi
+Çüngüş İlçe Devlet Hast.,Diyarbakır,2,"79,24","79,24",Güneydoğu Anadolu Bölgesi
+Diyarbakır Lice TSM.,Diyarbakır,2,"78,39","78,39",Güneydoğu Anadolu Bölgesi
+Diyarbakır Bismil İlçe Sağlık Müd.,Diyarbakır,4,"81,19","82,03",Güneydoğu Anadolu Bölgesi
+Diyarbakır Hani İlçe Sağlık Müd.,Diyarbakır,4,"80,36","81,98",Güneydoğu Anadolu Bölgesi
+Silvan Dr.Yusuf Azizoğlu Devlet Hast.,Diyarbakır,3,"84,28","84,28",Güneydoğu Anadolu Bölgesi
+Diyarbakır Silvan İlçe Sağlık Müd.,Diyarbakır,5,"81,28","82,74",Güneydoğu Anadolu Bölgesi
+Diyarbakır Eğil TSM.,Diyarbakır,2,"82,26","82,26",Güneydoğu Anadolu Bölgesi
+Diyarbakır Gazi Yaşargil EAH.,Diyarbakır,22,"84,92","88,99",Güneydoğu Anadolu Bölgesi
+Diyarbakır Kulp İlçe Sağlık Müd.,Diyarbakır,3,"76,93","76,93",Güneydoğu Anadolu Bölgesi
+Diyarbakır Dicle İlçe Sağlık Müd.,Diyarbakır,2,"80,83","80,83",Güneydoğu Anadolu Bölgesi
+Diyarbakır Ergani İlçe Sağlık Müd.,Diyarbakır,6,"81,62","82,89",Güneydoğu Anadolu Bölgesi
+Kocaköy İlçe Devlet Hast.,Diyarbakır,4,"82,19","82,82",Güneydoğu Anadolu Bölgesi
+Düzce Atatürk Devlet Hast.,Düzce,30,"74,64","79,59",Karadeniz Bölgesi
+Akçakoca Devlet Hast.,Düzce,3,"78,97","78,97",Karadeniz Bölgesi
+Yığılca İlçe Devlet Hast.,Düzce,3,"73,28","73,34",Karadeniz Bölgesi
+Uzunköprü Devlet Hast.,Edirne,8,"73,84","74,65",Marmara Bölgesi
+Edirne Sultan 1. Murat Devlet Hast.,Edirne,24,"75,19","84,11",Marmara Bölgesi
+Süloğlu İlçe Devlet Hast.,Edirne,2,"73,28","73,28",Marmara Bölgesi
+Keşan Devlet Hast.,Edirne,6,"73,51","75,7",Marmara Bölgesi
+Elazığ Kovancılar İlçe Sağlık Müd.,Elazığ,3,"76,47","76,47",Doğu Anadolu Bölgesi
+Kovancılar Devlet Hast.,Elazığ,4,"77,89","78,08",Doğu Anadolu Bölgesi
+Palu İlçe Devlet Hast.,Elazığ,4,"77,49","78,42",Doğu Anadolu Bölgesi
+Elazığ Palu TSM.,Elazığ,2,"77,03","77,03",Doğu Anadolu Bölgesi
+Karakoçan Devlet Hast.,Elazığ,6,"77,15","82,47",Doğu Anadolu Bölgesi
+Elazığ Karakoçan TSM.,Elazığ,2,"79,96","79,96",Doğu Anadolu Bölgesi
+Baskil İlçe Devlet Hast.,Elazığ,2,"79,67","79,67",Doğu Anadolu Bölgesi
+Çayırlı İlçe Devlet Hast.,Erzincan,3,"73,08","73,08",Doğu Anadolu Bölgesi
+İliç İlçe Devlet Hast.,Erzincan,3,"72,48","73,4",Doğu Anadolu Bölgesi
+Kemah İlçe Devlet Hast.,Erzincan,6,"72,5","72,76",Doğu Anadolu Bölgesi
+Tercan İlçe Devlet Hast.,Erzincan,8,"73,03","75,31",Doğu Anadolu Bölgesi
+Refahiye Dr. Fahrettin Uğur İlçe Devlet Hast.,Erzincan,6,"73,39","73,66",Doğu Anadolu Bölgesi
+Üzümlü İlçe Devlet Hast.,Erzincan,6,"74,1","74,1",Doğu Anadolu Bölgesi
+Kemaliye İlçe Devlet Hast.,Erzincan,4,"73,68","75,34",Doğu Anadolu Bölgesi
+Pasinler İbrahim Hakkı Devlet Hast.,Erzurum,5,"74,62","74,89",Doğu Anadolu Bölgesi
+Çat İlçe Devlet Hast.,Erzurum,2,"76,84","76,84",Doğu Anadolu Bölgesi
+Erzurum Mareşal Çakmak Devlet Hast.,Erzurum,9,"84,79","86,05",Doğu Anadolu Bölgesi
+Tortum İlçe Devlet Hast.,Erzurum,5,"73,7","74,64",Doğu Anadolu Bölgesi
+Horasan Devlet Hast.,Erzurum,10,"74,27","75,2",Doğu Anadolu Bölgesi
+Aşkale İlçe Devlet Hast.,Erzurum,7,"74,41","74,41",Doğu Anadolu Bölgesi
+Hınıs Şehit Yavuz Yürekseven Devlet Hast.,Erzurum,6,"74,56","80,62",Doğu Anadolu Bölgesi
+Karayazı Türk Eczacıları Birliği İlçe Devlet Hast.,Erzurum,3,"71,8","71,8",Doğu Anadolu Bölgesi
+Karaçoban İlçe Devlet Hast.,Erzurum,4,"72,45","74,18",Doğu Anadolu Bölgesi
+Tekman Şehit Piyade Çavuş Muhammet Binici Devlet Hast.,Erzurum,7,"74,33","75,13",Doğu Anadolu Bölgesi
+Erzurum Bölge EAH.,Erzurum,55,"75,28","85,07",Doğu Anadolu Bölgesi
+Eskişehir Şehir Hast.,Eskişehir,35,"80,22","90,29",İç Anadolu Bölgesi
+Eskişehir Yunus Emre Devlet Hast.,Eskişehir,14,"83,91","87,7",İç Anadolu Bölgesi
+İslahiye Devlet Hast.,Gaziantep,12,"75,63","79,09",Güneydoğu Anadolu Bölgesi
+Gaziantep 25 Aralık Devlet Hast.,Gaziantep,28,"85,38","88,27",Güneydoğu Anadolu Bölgesi
+Gaziantep Şehitkamil Devlet Hast.,Gaziantep,40,"76,23","84,22",Güneydoğu Anadolu Bölgesi
+Güce İlçe Devlet Hast.,Giresun,2,"72,5","72,5",Karadeniz Bölgesi
+Alucra İlçe Devlet Hast.,Giresun,12,"72,53","74,27",Karadeniz Bölgesi
+Çamoluk İlçe Devlet Hast.,Giresun,4,"73,15","73,22",Karadeniz Bölgesi
+Şebinkarahisar Devlet Hast.,Giresun,16,"73,24","74,92",Karadeniz Bölgesi
+Giresun Doğankent TSM.,Giresun,2,"78,59","78,59",Karadeniz Bölgesi
+Giresun Çanakçı TSM.,Giresun,2,"71,66","71,66",Karadeniz Bölgesi
+Görele Op. Dr. Ergun Özdemir Devlet Hast.,Giresun,10,"73,61","77,22",Karadeniz Bölgesi
+Yağlıdere İlçe Devlet Hast.,Giresun,3,"71,72","72,22",Karadeniz Bölgesi
+Tirebolu Devlet Hast.,Giresun,8,"73,88","74,96",Karadeniz Bölgesi
+Dereli İlçe Devlet Hast.,Giresun,5,"72,67","73,49",Karadeniz Bölgesi
+Kürtün İlçe Devlet Hast.,Gümüşhane,11,"72,5","74,22",Karadeniz Bölgesi
+Kelkit Devlet Hast.,Gümüşhane,19,"73,19","74,45",Karadeniz Bölgesi
+Şiran Devlet Hast.,Gümüşhane,10,"72,68","73,96",Karadeniz Bölgesi
+Köse İlçe Devlet Hast.,Gümüşhane,5,"71,79","72,51",Karadeniz Bölgesi
+Gümüşhane Devlet Hast.,Gümüşhane,27,"73,6","76,39",Karadeniz Bölgesi
+Yüksekova Devlet Hast.,Hakkari,18,"75,14","79,57",Doğu Anadolu Bölgesi
+Hakkari Devlet Hast.,Hakkari,20,"74,91","82,84",Doğu Anadolu Bölgesi
+Şemdinli Devlet Hast.,Hakkari,10,"74,77","85,9",Doğu Anadolu Bölgesi
+Hatay İl Sağlık Müd.,Hatay,5,"87,87","88,27",Akdeniz Bölgesi
+Dörtyol Devlet Hast.,Hatay,10,"77,96","81,95",Akdeniz Bölgesi
+Erzin Devlet Hast.,Hatay,2,"77,8","77,8",Akdeniz Bölgesi
+İskenderun Devlet Hast.,Hatay,27,"78,81","82,4",Akdeniz Bölgesi
+Samandağ Devlet Hast.,Hatay,8,"78,95","80,74",Akdeniz Bölgesi
+Reyhanlı Devlet Hast.,Hatay,15,"76,93","77,91",Akdeniz Bölgesi
+Kırıkhan Devlet Hast.,Hatay,13,"77,69","83,09",Akdeniz Bölgesi
+Kumlu İlçe Devlet Hast.,Hatay,2,"76,89","76,89",Akdeniz Bölgesi
+Hassa Devlet Hast.,Hatay,4,"77,24","79,97",Akdeniz Bölgesi
+Altınözü Devlet Hast.,Hatay,4,"78,35","78,53",Akdeniz Bölgesi
+Yayladağı Devlet Hast.,Hatay,2,"77,76","77,76",Akdeniz Bölgesi
+Senirkent İlçe Devlet Hast.,Isparta,2,"76,46","76,46",Akdeniz Bölgesi
+Sütçüler İlçe Devlet Hast.,Isparta,2,"76,35","76,35",Akdeniz Bölgesi
+Yalvaç Devlet Hast.,Isparta,5,"76,05","76,69",Akdeniz Bölgesi
+Uluborlu İlçe Devlet Hast.,Isparta,2,"77,44","77,44",Akdeniz Bölgesi
+Gelendost İlçe Devlet Hast.,Isparta,2,"79,07","79,07",Akdeniz Bölgesi
+Iğdır Aralık TSM.,Iğdır,3,"76,36","76,36",Doğu Anadolu Bölgesi
+Iğdır Merkez TSM.,Iğdır,4,"78,3","78,36",Doğu Anadolu Bölgesi
+Iğdır Devlet Hast.,Iğdır,6,"79,46","83,49",Doğu Anadolu Bölgesi
+Iğdır Karakoyunlu TSM.,Iğdır,2,"74,86","74,86",Doğu Anadolu Bölgesi
+Tuzluca İlçe Devlet Hast.,Iğdır,4,"75,25","78,44",Doğu Anadolu Bölgesi
+Afşin Devlet Hast.,Kahramanmaraş,12,"75,28","77,11",Akdeniz Bölgesi
+Pazarcık Devlet Hast.,Kahramanmaraş,18,"76,13","86,69",Akdeniz Bölgesi
+Türkoğlu Dr. Kemal Beyazıt Devlet Hast.,Kahramanmaraş,6,"78,98","82,86",Akdeniz Bölgesi
+Elbistan Devlet Hast.,Kahramanmaraş,27,"75,81","86,01",Akdeniz Bölgesi
+Karabük EAH.,Karabük,21,"75,93","84,49",Karadeniz Bölgesi
+Ermenek Devlet Hast.,Karaman,6,"74,63","74,76",İç Anadolu Bölgesi
+Karaman Başyayla TSM.,Karaman,2,"73,84","73,84",İç Anadolu Bölgesi
+Karaman EAH.,Karaman,24,"75,64","86,56",İç Anadolu Bölgesi
+Karaman Sarıveliler TSM.,Karaman,2,"74,42","74,42",İç Anadolu Bölgesi
+Kazımkarabekir İlçe Devlet Hast.,Karaman,2,"74,95","74,95",İç Anadolu Bölgesi
+Karaman Ermenek TSM.,Karaman,2,"77,02","77,02",İç Anadolu Bölgesi
+Digor İlçe Devlet Hast.,Kars,7,"72,15","72,86",Doğu Anadolu Bölgesi
+Arpaçay İlçe Devlet Hast.,Kars,7,"72,5","72,89",Doğu Anadolu Bölgesi
+Harakani Devlet Hast.,Kars,28,"73,96","87,99",Doğu Anadolu Bölgesi
+Kars Kağızman İlçe Sağlık Müd.,Kars,2,"79,18","79,18",Doğu Anadolu Bölgesi
+Kağızman Devlet Hast.,Kars,4,"74,75","76,11",Doğu Anadolu Bölgesi
+Kars Susuz TSM.,Kars,2,"76,48","76,48",Doğu Anadolu Bölgesi
+Daday İlçe Devlet Hast.,Kastamonu,2,"73,44","73,44",Karadeniz Bölgesi
+İnebolu Devlet Hast.,Kastamonu,4,"73,71","78,05",Karadeniz Bölgesi
+Azdavay İlçe Devlet Hast.,Kastamonu,3,"73,37","73,37",Karadeniz Bölgesi
+Kastamonu Doğanyurt TSM.,Kastamonu,3,"73,5","73,5",Karadeniz Bölgesi
+Kastamonu Hanönü TSM.,Kastamonu,3,"73,4","73,4",Karadeniz Bölgesi
+Kastamonu Şenpazar TSM.,Kastamonu,2,"73,71","73,71",Karadeniz Bölgesi
+Yahyalı Devlet Hast.,Kayseri,8,"75,32","76,17",İç Anadolu Bölgesi
+Kayseri Şehir Hast.,Kayseri,156,"76,83","86,08",İç Anadolu Bölgesi
+Kayseri Devlet Hast.,Kayseri,6,"81,54","87,14",İç Anadolu Bölgesi
+Bünyan Devlet Hast.,Kayseri,8,"76,36","81,2",İç Anadolu Bölgesi
+Develi Hatice-Muammer Kocatürk Devlet Hast.,Kayseri,8,"76,27","81,93",İç Anadolu Bölgesi
+Yeşilhisar İlçe Devlet Hast.,Kayseri,3,"75,74","75,82",İç Anadolu Bölgesi
+Kilis Devlet Hast.,Kilis,92,"75,65","80,18",Güneydoğu Anadolu Bölgesi
+Kocaeli Çayırova İlçe Sağlık Müd.,Kocaeli,9,"80,42","80,42",Marmara Bölgesi
+Kocaeli Karamürsel İlçe Sağlık Müd.,Kocaeli,3,"87,37","87,37",Marmara Bölgesi
+Kocaeli Gebze İlçe Sağlık Müd.,Kocaeli,14,"82,21","82,95",Marmara Bölgesi
+Kocaeli İzmit Seka Devlet Hast.,Kocaeli,18,"76,2","81,62",Marmara Bölgesi
+Derince EAH.,Kocaeli,39,"75,24","79,76",Marmara Bölgesi
+Kocaeli Gölcük İlçe Sağlık Müd.,Kocaeli,3,"80,76","80,76",Marmara Bölgesi
+Kocaeli Kartepe İlçe Sağlık Müd.,Kocaeli,4,"85,56","85,56",Marmara Bölgesi
+Kocaeli Devlet Hast.,Kocaeli,22,"77,36","81,32",Marmara Bölgesi
+Kocaeli Başiskele İlçe Sağlık Müd.,Kocaeli,3,"83,2","83,2",Marmara Bölgesi
+Kocaeli Körfez İlçe Sağlık Müd.,Kocaeli,9,"80,66","80,66",Marmara Bölgesi
+Kocaeli İzmit İlçe Sağlık Müd.,Kocaeli,7,"84,11","85,91",Marmara Bölgesi
+Kocaeli Darıca İlçe Sağlık Müd.,Kocaeli,9,"84,83","84,83",Marmara Bölgesi
+Kandıra Ecz. Kazım Dinç Devlet Hast.,Kocaeli,11,"74,16","75,59",Marmara Bölgesi
+Gölcük Necati Çelik Devlet Hast.,Kocaeli,21,"75,46","78,51",Marmara Bölgesi
+Dilovası Devlet Hast.,Kocaeli,9,"74,99","76,74",Marmara Bölgesi
+Kocaeli Dilovası İlçe Sağlık Müd.,Kocaeli,7,"78,18","78,18",Marmara Bölgesi
+Kocaeli Kandıra İlçe Sağlık Müd.,Kocaeli,3,"79,64","79,64",Marmara Bölgesi
+Darıca Farabi EAH.,Kocaeli,25,"76,21","80,42",Marmara Bölgesi
+Kocaeli Derince İlçe Sağlık Müd.,Kocaeli,4,"81,18","81,41",Marmara Bölgesi
+Gebze Fatih Devlet Hast.,Kocaeli,29,"75,57","82,43",Marmara Bölgesi
+Konya Beyhekim EAH.,Konya,22,"76,64","80,75",İç Anadolu Bölgesi
+Konya Şehir Hast.,Konya,474,"75,85","84,53",İç Anadolu Bölgesi
+Kütahya Evliya Çelebi EAH.,Kütahya,97,"75,62","81,96",Ege Bölgesi
+Emet Dr.Fazıl Doğan Devlet Hast.,Kütahya,6,"75,05","75,26",Ege Bölgesi
+Tavşanlı Doç. Dr.Mustafa Kalemli Devlet Hast.,Kütahya,23,"75,42","81,11",Ege Bölgesi
+Lüleburgaz Devlet Hast.,Kırklareli,33,"73,84","79,06",Marmara Bölgesi
+Kırklareli EAH.,Kırklareli,29,"73,64","77,16",Marmara Bölgesi
+Babaeski Devlet Hast.,Kırklareli,6,"73,33","79,6",Marmara Bölgesi
+Kırıkkale Yahşihan İlçe Sağlık Müd.,Kırıkkale,3,"86,8","86,8",İç Anadolu Bölgesi
+Mucur Devlet Hast.,Kırşehir,4,"75,47","76,51",İç Anadolu Bölgesi
+Çiçekdağı İlçe Devlet Hast.,Kırşehir,2,"78,56","78,56",İç Anadolu Bölgesi
+Akpınar İlçe Devlet Hast.,Kırşehir,2,"73,71","73,71",İç Anadolu Bölgesi
+Kaman Devlet Hast.,Kırşehir,4,"73,67","74,05",İç Anadolu Bölgesi
+Kırşehir EAH.,Kırşehir,12,"77,22","85,01",İç Anadolu Bölgesi
+Doğanşehir Şehit Esra Köse Başaran Devlet Hast.,Malatya,18,"77,12","81,16",Doğu Anadolu Bölgesi
+Darende Hulusi Efendi Devlet Hast.,Malatya,14,"76,58","79,33",Doğu Anadolu Bölgesi
+Pütürge Devlet Hast.,Malatya,7,"76,02","76,2",Doğu Anadolu Bölgesi
+Arapgir Ali Özge Devlet Hast.,Malatya,7,"76,33","76,54",Doğu Anadolu Bölgesi
+Alaşehir Devlet Hast.,Manisa,9,"76,39","81,16",Ege Bölgesi
+Saruhanlı Devlet Hast.,Manisa,3,"77,39","77,39",Ege Bölgesi
+Kula Devlet Hast.,Manisa,8,"75,66","88,98",Ege Bölgesi
+Turgutlu Devlet Hast.,Manisa,11,"76,44","79,17",Ege Bölgesi
+Soma Devlet Hast.,Manisa,11,"77,31","81,96",Ege Bölgesi
+Selendi Devlet Hast.,Manisa,2,"76,38","76,38",Ege Bölgesi
+Midyat Devlet Hast.,Mardin,12,"78,64","86,27",Güneydoğu Anadolu Bölgesi
+Dargeçit İlçe Devlet Hast.,Mardin,4,"81,61","85,45",Güneydoğu Anadolu Bölgesi
+Ömerli İlçe Devlet Hast.,Mardin,3,"78,16","78,61",Güneydoğu Anadolu Bölgesi
+Kızıltepe Devlet Hast.,Mardin,42,"78,19","85,46",Güneydoğu Anadolu Bölgesi
+Mardin Mazıdağı İlçe Sağlık Müd.,Mardin,2,"80,16","80,16",Güneydoğu Anadolu Bölgesi
+Mardin Ömerli TSM.,Mardin,2,"84,87","84,87",Güneydoğu Anadolu Bölgesi
+Mut Devlet Hast.,Mersin,9,"75,53","79,85",Akdeniz Bölgesi
+Tarsus Devlet Hast.,Mersin,21,"80,04","83,28",Akdeniz Bölgesi
+Mersin Şehir Hast.,Mersin,56,"82,83","87,33",Akdeniz Bölgesi
+Muğla EAH.,Muğla,55,"77,13","85,59",Ege Bölgesi
+Yatağan Devlet Hast.,Muğla,13,"79,08","80,41",Ege Bölgesi
+Datça Devlet Hast.,Muğla,10,"77,9","78,93",Ege Bölgesi
+Milas Devlet Hast.,Muğla,13,"78,64","82,96",Ege Bölgesi
+Muş Devlet Hast.,Muş,56,"75,03","80,63",Doğu Anadolu Bölgesi
+Bulanık Devlet Hast.,Muş,22,"73,5","77,03",Doğu Anadolu Bölgesi
+Malazgirt Devlet Hast.,Muş,15,"73,21","74,6",Doğu Anadolu Bölgesi
+Derinkuyu İlçe Devlet Hast.,Nevşehir,3,"75,06","75,06",İç Anadolu Bölgesi
+Avanos İlçe Devlet Hast.,Nevşehir,2,"79,68","79,68",İç Anadolu Bölgesi
+Gülşehir İlçe Devlet Hast.,Nevşehir,2,"75,82","75,82",İç Anadolu Bölgesi
+Nevşehir Devlet Hast.,Nevşehir,50,"76,54","88,47",İç Anadolu Bölgesi
+Acıgöl İlçe Devlet Hast.,Nevşehir,3,"76,03","76,03",İç Anadolu Bölgesi
+Hacıbektaş İlçe Devlet Hast.,Nevşehir,3,"74,71","74,71",İç Anadolu Bölgesi
+Niğde EAH.,Niğde,22,"75,53","84,88",İç Anadolu Bölgesi
+Bor Devlet Hast.,Niğde,9,"75,39","75,87",İç Anadolu Bölgesi
+Çamardı İlçe Devlet Hast.,Niğde,4,"74,35","74,56",İç Anadolu Bölgesi
+Çiftlik İlçe Devlet Hast.,Niğde,4,"73,43","73,57",İç Anadolu Bölgesi
+Fatsa Devlet Hast.,Ordu,15,"77,93","81,42",Karadeniz Bölgesi
+Kumru Devlet Hast.,Ordu,12,"73,34","76,04",Karadeniz Bölgesi
+Ünye Devlet Hast.,Ordu,13,"78,5",88,Karadeniz Bölgesi
+Korgan Devlet Hast.,Ordu,11,"72,42","75,23",Karadeniz Bölgesi
+Akkuş Devlet Hast.,Ordu,8,"72,38","73,71",Karadeniz Bölgesi
+Gölköy Devlet Hast.,Ordu,13,"73,16","74,87",Karadeniz Bölgesi
+Mesudiye İlçe Devlet Hast.,Ordu,7,"71,94","72,34",Karadeniz Bölgesi
+Aybastı Devlet Hast.,Ordu,11,"72,16","74,88",Karadeniz Bölgesi
+Düziçi Devlet Hast.,Osmaniye,9,"75,52","78,38",Akdeniz Bölgesi
+Osmaniye Devlet Hast.,Osmaniye,37,"76,11","82,68",Akdeniz Bölgesi
+Osmaniye Hasanbeyli TSM.,Osmaniye,2,"77,17","77,17",Akdeniz Bölgesi
+Osmaniye Sumbas TSM.,Osmaniye,2,"81,93","81,93",Akdeniz Bölgesi
+Rize Devlet Hast.,Rize,16,"74,4","77,21",Karadeniz Bölgesi
+Rize Recep Tayyip Erdoğan Üni. EAH.,Rize,30,"73,84","75,67",Karadeniz Bölgesi
+Hendek Devlet Hast.,Sakarya,16,"74,59","75,83",Marmara Bölgesi
+Karasu Devlet Hast.,Sakarya,8,"75,98","81,52",Marmara Bölgesi
+Sakarya EAH.,Sakarya,257,"74,65","87,65",Marmara Bölgesi
+Yenikent Devlet Hast.,Sakarya,43,"75,92","77,85",Marmara Bölgesi
+Bafra Devlet Hast.,Samsun,12,"82,6","84,81",Karadeniz Bölgesi
+Samsun Gazi Devlet Hast.,Samsun,8,"85,23","88,16",Karadeniz Bölgesi
+Çarşamba Devlet Hast.,Samsun,14,"82,66","85,05",Karadeniz Bölgesi
+Vezirköprü Devlet Hast.,Samsun,18,"76,49","79,84",Karadeniz Bölgesi
+Havza Devlet Hast.,Samsun,6,"77,47","78,23",Karadeniz Bölgesi
+Ladik Devlet Hast.,Samsun,4,"77,74","77,74",Karadeniz Bölgesi
+Salıpazarı İlçe Devlet Hast.,Samsun,5,"84,13","84,13",Karadeniz Bölgesi
+Siirt EAH.,Siirt,37,"77,65","88,38",Güneydoğu Anadolu Bölgesi
+Siirt Kurtalan İlçe Sağlık Müd.,Siirt,3,"84,29","84,29",Güneydoğu Anadolu Bölgesi
+Siirt Pervari İlçe Sağlık Müd.,Siirt,3,"80,32","80,32",Güneydoğu Anadolu Bölgesi
+Siirt Eruh TSM.,Siirt,2,"76,21","76,21",Güneydoğu Anadolu Bölgesi
+Boyabat 75.Yıl Devlet Hast.,Sinop,12,"74,04","79,15",Karadeniz Bölgesi
+Sinop Atatürk Devlet Hast.,Sinop,19,"76,52","81,61",Karadeniz Bölgesi
+Yıldızeli Devlet Hast.,Sivas,6,"74,5","74,97",İç Anadolu Bölgesi
+Gemerek Devlet Hast.,Sivas,5,"75,64","77,61",İç Anadolu Bölgesi
+Gürün Devlet Hast.,Sivas,6,74,"74,9",İç Anadolu Bölgesi
+Divriği Sadık Özgür Devlet Hast.,Sivas,7,"73,4","74,37",İç Anadolu Bölgesi
+Sivas Devlet Hast.,Sivas,61,"80,81","84,3",İç Anadolu Bölgesi
+Kangal Devlet Hast.,Sivas,4,"74,05","74,64",İç Anadolu Bölgesi
+Şarkışla Devlet Hast.,Sivas,6,"73,9","74,69",İç Anadolu Bölgesi
+Şarköy Devlet Hast.,Tekirdağ,2,"76,4","76,4",Marmara Bölgesi
+Çorlu Devlet Hast.,Tekirdağ,31,"74,51","83,5",Marmara Bölgesi
+Çerkezköy Devlet Hast.,Tekirdağ,29,"74,22","82,74",Marmara Bölgesi
+Almus Devlet Hast.,Tokat,4,"75,22","76,14",Karadeniz Bölgesi
+Zile Devlet Hast.,Tokat,6,"76,47","76,52",Karadeniz Bölgesi
+Reşadiye Devlet Hast.,Tokat,6,"75,43","77,29",Karadeniz Bölgesi
+Araklı Bayram Halil Devlet Hast.,Trabzon,3,"76,94","76,94",Karadeniz Bölgesi
+Trabzon Kanuni EAH.,Trabzon,42,"74,98","81,89",Karadeniz Bölgesi
+Of Devlet Hast.,Trabzon,6,"74,53","75,12",Karadeniz Bölgesi
+Trabzon Fatih Devlet Hast.,Trabzon,12,"76,15","83,49",Karadeniz Bölgesi
+Tunceli Devlet Hast.,Tunceli,4,"77,89","79,56",Doğu Anadolu Bölgesi
+Ovacık İlçe Devlet Hast.,Tunceli,3,"75,34","75,34",Doğu Anadolu Bölgesi
+Uşak EAH.,Uşak,48,"76,66","88,87",Ege Bölgesi
+Sivaslı İlçe Devlet Hast.,Uşak,5,"76,42","76,42",Ege Bölgesi
+Eşme Devlet Hast.,Uşak,5,"75,62","75,62",Ege Bölgesi
+Banaz Devlet Hast.,Uşak,6,"76,13","76,19",Ege Bölgesi
+Çatak Devlet Hast.,Van,4,"75,65","86,19",Doğu Anadolu Bölgesi
+Van Çaldıran İlçe Sağlık Müd.,Van,4,"73,41","74,77",Doğu Anadolu Bölgesi
+Gürpınar İlçe Devlet Hast.,Van,4,"77,22","77,78",Doğu Anadolu Bölgesi
+Van İpekyolu İlçe Sağlık Müd.,Van,4,"79,85","79,93",Doğu Anadolu Bölgesi
+Van Bahçesaray TSM.,Van,3,"73,01","73,01",Doğu Anadolu Bölgesi
+Bahçesaray İlçe Devlet Hast.,Van,7,"72,93","73,59",Doğu Anadolu Bölgesi
+Van Özalp İlçe Sağlık Müd.,Van,5,"75,65","76,94",Doğu Anadolu Bölgesi
+Van Tuşba İlçe Sağlık Müd.,Van,4,"79,71","82,8",Doğu Anadolu Bölgesi
+Gevaş Devlet Hast.,Van,4,"77,25","77,36",Doğu Anadolu Bölgesi
+Van Erciş İlçe Sağlık Müd.,Van,5,"76,71","77,1",Doğu Anadolu Bölgesi
+Başkale Devlet Hast.,Van,9,"73,42","76,5",Doğu Anadolu Bölgesi
+Van Başkale İlçe Sağlık Müd.,Van,4,"74,16","74,78",Doğu Anadolu Bölgesi
+Van Edremit İlçe Sağlık Müd.,Van,5,"79,2","82,73",Doğu Anadolu Bölgesi
+Van Gürpınar İlçe Sağlık Müd.,Van,3,"77,09","77,09",Doğu Anadolu Bölgesi
+Van Çatak TSM.,Van,3,"73,13","73,13",Doğu Anadolu Bölgesi
+Muradiye Devlet Hast.,Van,8,"75,41","76,92",Doğu Anadolu Bölgesi
+Erciş Şehit Rıdvan Çevik Devlet Hast.,Van,33,"75,82","84,68",Doğu Anadolu Bölgesi
+Özalp Devlet Hast.,Van,10,"75,66","77,35",Doğu Anadolu Bölgesi
+Van Gevaş TSM.,Van,4,"78,16","81,41",Doğu Anadolu Bölgesi
+Van Saray TSM.,Van,4,"73,92","74,77",Doğu Anadolu Bölgesi
+Çaldıran Devlet Hast.,Van,12,"73,63","75,85",Doğu Anadolu Bölgesi
+Van EAH.,Van,90,"77,88","86,74",Doğu Anadolu Bölgesi
+Van Muradiye İlçe Sağlık Müd.,Van,3,"77,48","77,48",Doğu Anadolu Bölgesi
+Yalova Devlet Hast.,Yalova,33,"76,67","81,73",Marmara Bölgesi
+Sarıkaya Devlet Hast.,Yozgat,4,"73,41","73,5",İç Anadolu Bölgesi
+Çekerek Şehit Harun Koçak Devlet Hast.,Yozgat,5,"72,95","73,6",İç Anadolu Bölgesi
+Yozgat Şehir Hast.,Yozgat,44,"74,47","82,9",İç Anadolu Bölgesi
+Sorgun Devlet Hast.,Yozgat,13,"74,2","77,02",İç Anadolu Bölgesi
+Saraykent Şehit Beytullah Yeşilay İlçe Devlet Hast.,Yozgat,5,"72,92","75,31",İç Anadolu Bölgesi
+Çaycuma Devlet Hast.,Zonguldak,14,"73,7","84,7",Karadeniz Bölgesi
+Karadeniz Ereğli Devlet Hast.,Zonguldak,17,"76,65","79,26",Karadeniz Bölgesi
+Çan Devlet Hast.,Çanakkale,8,"77,35","79,08",Marmara Bölgesi
+Gökçeada Devlet Hast.,Çanakkale,4,"76,29","78,05",Marmara Bölgesi
+Çanakkale Ayvacık İlçe Sağlık Müd.,Çanakkale,2,"82,6","82,6",Marmara Bölgesi
+Ilgaz Devlet Hast.,Çankırı,4,"72,27","73,73",İç Anadolu Bölgesi
+Çerkeş Devlet Hast.,Çankırı,3,"72,7","72,73",İç Anadolu Bölgesi
+Çankırı Devlet Hast.,Çankırı,16,"74,2","78,53",İç Anadolu Bölgesi
+Çorum Erol Olçok EAH.,Çorum,26,"75,1","82,02",Karadeniz Bölgesi
+Kargı Ahmet Hamdi Akpınar İlçe Devlet Hast.,Çorum,4,"73,05","73,09",Karadeniz Bölgesi
+İskilip Atıf Hoca Devlet Hast.,Çorum,8,"74,19","87,01",Karadeniz Bölgesi
+Oğuzlar İlçe Devlet Hast.,Çorum,2,"72,95","72,95",Karadeniz Bölgesi
+Sungurlu Devlet Hast.,Çorum,8,"73,49","74,78",Karadeniz Bölgesi
+Alaca Devlet Hast.,Çorum,6,"73,36","77,37",Karadeniz Bölgesi
+Eyüpsultan Devlet Hast.,İstanbul,30,"73,35","79,51",Marmara Bölgesi
+Üsküdar Devlet Hast.,İstanbul,14,"78,78","83,62",Marmara Bölgesi
+Ümraniye EAH.,İstanbul,91,"72,35","84,86",Marmara Bölgesi
+Başakşehir Devlet Hast.,İstanbul,11,"73,81","76,48",Marmara Bölgesi
+İstinye Devlet Hast.,İstanbul,14,"73,54","85,79",Marmara Bölgesi
+Tuzla Devlet Hast.,İstanbul,48,"74,21","79,33",Marmara Bölgesi
+Çatalca İlyas Çokay Devlet Hast.,İstanbul,12,"72,51",80,Marmara Bölgesi
+Bahçelievler Devlet Hast.,İstanbul,47,"73,95","87,36",Marmara Bölgesi
+Bayrampaşa Devlet Hast.,İstanbul,27,"75,15","83,94",Marmara Bölgesi
+Büyükçekmece Mimar Sinan Devlet Hast.,İstanbul,27,"72,67","79,58",Marmara Bölgesi
+Beykoz Devlet Hast.,İstanbul,42,"72,75","82,19",Marmara Bölgesi
+İstanbul Bağcılar EAH.,İstanbul,105,"71,51","77,75",Marmara Bölgesi
+İstanbul Fatih Sultan Mehmet EAH.,İstanbul,64,"71,74",78,Marmara Bölgesi
+İstanbul Haseki EAH.,İstanbul,133,"71,64","82,85",Marmara Bölgesi
+Gaziosmanpaşa EAH.,İstanbul,77,"71,37","84,16",Marmara Bölgesi
+Arnavutköy Devlet Hast.,İstanbul,47,"72,41","82,89",Marmara Bölgesi
+Sultanbeyli Devlet Hast.,İstanbul,75,"72,65","86,95",Marmara Bölgesi
+İstanbul EAH.,İstanbul,152,"71,91","84,56",Marmara Bölgesi
+Göztepe Prof. Dr. Süleyman Yalçın Şehir Hast.,İstanbul,96,"71,72","74,78",Marmara Bölgesi
+Kağıthane Devlet Hast.,İstanbul,10,"73,38","74,99",Marmara Bölgesi
+Silivri Devlet Hast.,İstanbul,23,"73,09","80,7",Marmara Bölgesi
+Kartal Koşuyolu Yüksek İhtisas EAH.,İstanbul,77,"72,6","80,36",Marmara Bölgesi
+Buca Seyfi Demirsoy EAH.,İzmir,69,"78,01","88,71",Ege Bölgesi
+Kemalpaşa Devlet Hast.,İzmir,6,"79,36","87,27",Ege Bölgesi
+Torbalı Devlet Hast.,İzmir,13,"79,24","86,79",Ege Bölgesi
+Çeşme Alper Çizgenakat Devlet Hast.,İzmir,9,"76,4","84,06",Ege Bölgesi
+Tire Devlet Hast.,İzmir,18,"77,84","84,21",Ege Bölgesi
+Bergama Necla Mithat Öztüre Devlet Hast.,İzmir,14,"76,75","82,46",Ege Bölgesi
+İzmir Atatürk EAH.,İzmir,112,"78,48","83,44",Ege Bölgesi
+Çiğli EAH.,İzmir,23,"81,3","88,01",Ege Bölgesi
+Ödemiş Devlet Hast.,İzmir,12,"77,01","80,71",Ege Bölgesi
+Şanlıurfa Akçakale İlçe Sağlık Müd.,Şanlıurfa,3,"76,85","76,85",Güneydoğu Anadolu Bölgesi
+Şanlıurfa Harran İlçe Sağlık Müd.,Şanlıurfa,2,"79,57","79,57",Güneydoğu Anadolu Bölgesi
+Şanlıurfa Viranşehir İlçe Sağlık Müd.,Şanlıurfa,3,"79,61","79,61",Güneydoğu Anadolu Bölgesi
+Suruç Devlet Hast.,Şanlıurfa,19,"75,92","80,86",Güneydoğu Anadolu Bölgesi
+Şanlıurfa Ceylanpınar İlçe Sağlık Müd.,Şanlıurfa,3,"80,63","80,63",Güneydoğu Anadolu Bölgesi
+Şanlıurfa EAH.,Şanlıurfa,87,"76,93","82,34",Güneydoğu Anadolu Bölgesi
+Şanlıurfa Balıklıgöl Devlet Hast.,Şanlıurfa,17,"78,37","79,05",Güneydoğu Anadolu Bölgesi
+Birecik Devlet Hast.,Şanlıurfa,22,"76,14","78,14",Güneydoğu Anadolu Bölgesi
+Şanlıurfa Mehmet Akif İnan EAH.,Şanlıurfa,44,"79,41","87,05",Güneydoğu Anadolu Bölgesi
+Siverek Devlet Hast.,Şanlıurfa,12,"79,05","82,86",Güneydoğu Anadolu Bölgesi
+Ceylanpınar Devlet Hast.,Şanlıurfa,26,"76,39","81,07",Güneydoğu Anadolu Bölgesi
+Viranşehir Devlet Hast.,Şanlıurfa,23,"77,25","81,46",Güneydoğu Anadolu Bölgesi
+Şırnak Devlet Hast.,Şırnak,32,"77,28","80,82",Güneydoğu Anadolu Bölgesi
+Silopi Devlet Hast.,Şırnak,17,"77,92","82,78",Güneydoğu Anadolu Bölgesi
+İdil Devlet Hast.,Şırnak,13,"78,61","89,36",Güneydoğu Anadolu Bölgesi
+Şırnak Şehit Aydoğan Aydın Devlet Hast.,Şırnak,14,"76,54","77,62",Güneydoğu Anadolu Bölgesi
+Cizre Dr. Selahattin Cizrelioğlu Devlet Hast.,Şırnak,19,"78,63","87,53",Güneydoğu Anadolu Bölgesi
